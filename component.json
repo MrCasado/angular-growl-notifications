@@ -1,9 +1,19 @@
 {
   "name": "angular-growl-notifications",
-  "version": "2.1.2",
+  "dependencies": {
+    
+  },
   "main": "angular-growl-notifications.js",
   "scripts": [
     "angular-growl-notifications.js"
+  ],
+  "styles": [
+    
+  ],
+  "templates": [
+    
+  ],
+  "files": [
   ]
 }
 
