@@ -1,9 +1,5 @@
 {
   "name": "angular-growl-notifications",
-  "version": "2.1.2",
-  "main": "angular-growl-notifications.js",
-  "scripts": [
-    "angular-growl-notifications.js"
-  ]
+  "version": "2.1.2"
 }
 
