@@ -3,9 +3,9 @@
   "dependencies": {
     
   },
-  "main": "angular-growl-notifications.js",
+  "main": "dist/angular-growl-notifications.js",
   "scripts": [
-    "angular-growl-notifications.js"
+    "dist/angular-growl-notifications.js"
   ],
   "styles": [
     
